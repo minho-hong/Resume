@@ -47,7 +47,7 @@ exclude_patterns = []
 #
 # html_theme = 'alabaster'
 # html_theme = 'haiku'
-# import sphinx_rtd_theme
+import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 # html_theme = 'pyramid'
 # html_theme = 'nature'
